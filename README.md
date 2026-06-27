@@ -21,7 +21,7 @@ pip install requests
 
 # 2. Projeyi klonla
 git clone  https://github.com/kadrbequit/Gmail-tahmin.git
-cd gmail-profile-estimator
+cd Gmail-tahmin
 
 # 3. Çalıştır
 python gmail_tahmin.py

@@ -1,0 +1,5 @@
+pycache/
+*.pyc
+*.json
+sonuc.json
+.env
